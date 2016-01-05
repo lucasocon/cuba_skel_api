@@ -5,13 +5,13 @@
   - Get the code
 
 ```
-https://github.com/carma-int/mukti.git
+https://github.com/lucasocon/cuba_skel_api.git
 ```
 
   - Install dependencies
 
 ```
-cd mukti
+cd project
 dep install
 ```
 
